@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="60" height="40" tilewidth="16" tileheight="16" nextobjectid="2">
+ <tileset firstgid="1" name="RPG" tilewidth="16" tileheight="16" tilecount="8064">
+  <image source="../Tilesets/rpg_maker.png" width="1024" height="2016"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="60" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztlWEOwyAIhecR7M30/ofZlsyEMVAqKNr1x8usXSsfPGgMj8fxUvz8ps86gv0r6EBrTt5xWvP+AyvF6x3PLFbvWFbjrfl9hmbzZmdZ5UyaP29eba6wR2/eb9+POBNqJivkHRVLi/esrM7i3pGUWmXOS2t48968V+HVsq7Ma8G2A+8ozl15Lc7YiTcbaCfeqNRKvHkSrzenlFVSf0k/eLNSHFxOrlDfUlu8h6VljaDGnGbVFnNasNV4a34/ozM1zeG3tq1YtXOsxdszDySiehXWVcMk4a15bbRgvS3Zenh7elHKSPnbgqXlq1lzSdLLFkySPtLOnxG8vWwtX2lz1pMf7vnavJIqh28mmEN8z1tlViV0HcPv9wrGHitr654YyVv8x81sCW9C71iFt/QXZknEHubCXqaejeieN6uE9wg0125+LnFQdeB4pX5ejRf2FTdrqbgpLpwznD98TZ03q7acV+F/8Oypxc5xHITOvKsnP9Rz73Ofb8ezfQ==
+  </data>
+ </layer>
+ <layer name="Under Bottem" width="60" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt1ksOgjAUheE7QZgRTZDV6Exclc584GtHOkPxuSONJ7EDowxL27TnSxoIo/uHFCpCRES/ykxkldmewpwzWi8B9RIREZE7Bn2RYd/2FOZM0DoNqHeP1oPqLVOcsVO787TtidaX6j2j9eJ5b9QT6fRsT2HOCK1FQL3fFl2RZff/ua/7+oTWuqE3hH1N7lsk2I+J7Sn0WOcim/xzX6HpiHVquNae9F7ResttT0FEbYrwveqoFauVePINazJCW6HWOHH3H7XF+W2n4Qw3Q9tcddaxu/+oO1ofmntdfK+6VR6ePYjIvDepxyvk
+  </data>
+ </layer>
+ <layer name="Bottom" width="60" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzlWUtS20AQnYQItFHZZoMvQciObBOw4TIJ7GALxAayCRchyRVCwncTLpKEI/CoUpOptlrqlmYEZXfVK6mt0ac/b6annSw5Nw8sACmQTLk+AIbABrA5A/oIGAOHwNEM6OfABXAJXM2ALuX7XN+5V8AL4GV/enQp39dwbR14B7zvT4/O85v8UEf2us7td+vda34XvnUfOAA+Lenv4/lNfqgjP2DrWUR7jxed+7yYvwvfegb8BH4Z7OX8tfqrTbmGrTe5vZyXWuH8tfrrqYTzUivSekVx5jyx6rFE+x4+TlqvKM6cJ1a9li2KeU/7Hj4udr0q+b8sL2jeK8ubKv7S+LbrZ8n/TfOmir80vu36WfK/ti4KlWdt1c+S/7V1Uag8i10/83nerxWK+CvJw/NC5FkVf5vWq3ye92uFIv7uCTbz59XNM4m/FKcvmB9PCtYE+i5aM1Yx9q2Cn1XXebyPO8iHzuT40PtfitNv2HJbsgbSmrGDsbuePQl+m+9Wz5/8Oo/3NWy96fy3O1ScQ9fPA9g6rLFn4PGmWJPd0jjpOdr+VdF6STErkyTFGGCh4Jim1fbyeEu1kzZvtP2rIr/5MZPm1QFsGgIbBcdNhb2+SLG25J3Ed4m/iRAfqW4NaW9ZrP15bDlz7jWwkh/p/E0m813i70D4Xu57yvURxoyBw/y+oacfpfbex1wPz+9Nvs/n8wfY9RHYyo90vp3p62fy44h9r+R7ynV//Ng7f8wLY+9jDbau9ybf58f3FHZ9Bb7lRzr/nunr58c+nhDfpvth7X6Z/Miv+/H9A7v+Av/yI53fZXb+SvFtuq+x7pfr7qdj8Te0zqVunyoWf0PrUpysfSorf89h4wVwCVwZ15PnIFb+tiF8jxhSrPxtQ/geMaRY+fscRFO3++LXNNb+Vaj+cpP1mNZg7Xi/r2n9/zdUfzn2ei3p1v9/Q/WXY/e3rXrs/nLs/rZVj91fjt3fbtq/Ct1fjt3ftur3SPE2IA==
+  </data>
+ </layer>
+ <layer name="Other Bottem" width="60" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztz0kKwkAUhOECB9BEO4smyX0cQBO9VbLRayUbPZS1EyE76YF0ffCgeZt+PyAiIiIiIiISj6wG8jr0Ff40bG0T6o3dpgK2nIyTV6Gvce/Cxiun4bQJ9IrIf1YWWNvpXVcAfRHmLldO7Drb6d3A1nFmvR27es7OAHvzu5ujgV0j58bWu/nuHnw/TdjbfHqx9e2hd1ECy9L9P7E4sPWYUK+IiIiIAB91QxFx
+  </data>
+ </layer>
+ <layer name="Top" width="60" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztz8sNg1AMBEAXQCsJaSyfxiA0BkkJ8cHvlisgPc1IK+/RGwEAAAAAx7gMEdfMWLf123D2Z/u4565H5lm39Vene6fcNWfedVtfOt275q4t86nb+rfTvQAAAMB/P5ZhEOU=
+  </data>
+ </layer>
+ <layer name="Other Top" width="60" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20Hb6AAAAAAAAAAAAB4DCWAAAE=
+  </data>
+ </layer>
+ <layer name="Other Other Top" width="60" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20Hb6AAAAAAAAAAAAB4DCWAAAE=
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1">
+  <object id="1" name="Foral Forest Door" x="272" y="637.333" width="98" height="8.66667"/>
+ </objectgroup>
+</map>

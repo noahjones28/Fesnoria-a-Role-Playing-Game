@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="47" tilewidth="16" tileheight="16" nextobjectid="44">
+ <tileset firstgid="1" name="rpg_maker.png" tilewidth="16" tileheight="16" tilecount="8064">
+  <image source="../Tilesets/rpg_maker.png" width="1024" height="2016"/>
+ </tileset>
+ <layer name="Grass Base" width="40" height="47">
+  <data encoding="base64" compression="zlib">
+   eJytmEtuGzEQRM11siGv5Ww09z9MFMANFJ6qmhxFC4Iyf/2mupqY8RxfX+vZrp/+8fNb+4m5hTVT1mlb+L1k3cOcPU38KfHc/CnfHJnzU3zUg3waJ+mnfIx5yjfHKx/PYVzyOd1P+Pj8J3xufeJzeXOe4Bh9ccrn1l6j5+vOItMn+Trfqwfu8Ln8Ut9pxujZ+k3NqN8DTeNf5vyd/3Z8PP8u32P0fC4/5Dnlo36O1XGpZ389228Tj3yat46PcSYa89jp8q99P9ufD/JRP+VxWjLmHHv9nIdO+VgfzCfvyB2f049864DPrUt8znO6bsn+pN8aWZf/1S/tUb6aS/4jQ8fXaUi/cb2ys5am6Edfd3zMDbVhfLKRW/mY+9JvVwMn/tGa33mh4pGP+pd+7KeJ7fx2wkdPTsyTVWOUfuxTvTgt7/LttHT5r770Y65Zz4mr4yNrl2sdV51LvxRjx7XjY25P+HS89NNYiU9r0q29TBy3nxxzvOa29rp6dnyMl/gYX8cTn9NvV8+7nizk6+4D1WqNrN01cj3veuaSfPRGumOYs8SX8uv8rTnWGEm/y8zrvcGc3+FLjTVMFq6hjysu75PEp15weqU6vstX5zo+xlI+jXPK9xivfE5j5rr4Ksen9djxkcfdj4nP3Unfos1pPZ7y6Vqtwzt8rp54F6gPHJ+rTfLpWayp5E1X26zLHV/3/M73XO/2F1e6ezh3ypfOc3yufunNdJ67P/T9z/mHHnQxd/VBrzj/0SenfM6D7/Kl/HZ8+r3p4jiP7/joc1cHyQ9Jv4l9nQe57pTP6ev8tKRX/TrfJv/c1Y9+7vhYv50vUn2z12dPfClPOl9r+H2ZcpruE/aqQdLW6Ucta4zfl2lvF7P6d9/Fu57/L0r+WmOv37vv4l2v72FzvOZfc+vmUw51Pnm//l7j1T9ajzrGPJ80PbfzF58vta5Gmee1abs67vz/jg6Mz/uV7S82D7H5
+  </data>
+ </layer>
+ <layer name="bottem" width="40" height="47">
+  <data encoding="base64" compression="zlib">
+   eJztmMlSE0EAhjtAAKVSkCqqDNwQQV9AFPUCCkQu8AoqoC+gyHIJgvoabrh7E1C5JJqwvIULiwvcQEUPflNOl0PSgcy0ycyh/6qv/uqZSdeXqamke8KHhKiEKqiGsMvxDZiE7CQ4NuFhvuxxF3RDD8Q9jN/CO4VfkmOp/zD/FNyEW3Dbw7g8JkRFLNcvxLGymP78acjAAix6GJ/F4ZzCr4NjnTH9+XWfD/P8medPZ375PeV9cDveL7rzy+8p74Pb8X4p9vylSm1UiLpobgclQffrw6U/mtsmJib/kmhgXdHgt0X+JHFL+eh3vEaINjih6JMQauT/rdE/v6s4XINhRV+HDtw6ffR7icMMzCp6DhK4TXjwa+Kzh6FZ0UdqCp9ni2u34buif0ASt1Qev8f1QjyBp/AMnsOL+r/nLvDZi3BJ0QMu/HTyGZcv8BW+wQZs2n53cLgL9xR9v0R+e+U9Dh/go6I/BcDPxMTExEpLRIhWm6OOtjgW2X2t7v650P36EueW7fODOAzZXHa0xZUsP939c6H76QOs6Q7a67oHOEzbPHS0xaNI/jmKmfO49dp+Kzis2qw52mLdJz+/4vZ9kU7a+Z8/BacdLTmTZw1Qyvc5IziMwpijJeMBWKO8wuE1vHG0ZD4Afj9x2IFfjpb8LqJfmuciAwuwGKB3fjJhfncqoQqqA7g378KpG3ogHkA/k+LlD6DmELg=
+  </data>
+ </layer>
+ <layer name="other bottem" width="40" height="47">
+  <data encoding="base64" compression="zlib">
+   eJztmNlu00AUhk+AbA7NJiVO1Qt4D7iBkqWFLiCx3MF7wE1Is7VAKUWCO3gRkIC2SdNCNyS4gxcB8bedUYZ4xvW4jhNEfunXyYxiz+dz3JnTEI000kj/qy5MEF2ccD7vt+6D4YGEQzXvt96A4a2EQzXvt36A4afAEQsQnQ9Y51VKmURp0/47zTTRYvp0nFzXwXYjoFgng3Uyx5/riA34JthuncC3CbaOR3w8f9J1wNNhfC3EtkM+LyXLn119VsD2gnlVEr2WLH929dkDwz7zgSR6Lbv3bxhk9/4Ng/6V/PXGYRHPX290qnfjRO/H+8d3klZi2Dti1vlAnOgM/AtsvwfItwe2fcYXBE8ofvz5CuJV+FKO6HLOf66lLNGT7N9zefAUGF8FcQF+CLZHPXzLUaLn8LKBaKjHvAaiVpGLl5J69WoLbNs9fFXcq8bu9wlxLW697lA7WHsX3gHLrqEe8xocitfmAGxfHfCdRgkwJOExOG6ox2XwPGZ8Ym2OeFPgTfWHbw5rz8Mz8KyhHosSa3PEC7ZCn/jcyK99tyz0CAumdaySWz4ve2GuMXDG4QScZMxuz1ndXjiI9UJwGI6Y1nEFnoFn4Tl4nvGJZ6vsvPWq/nmsV4CLcMmUj9ckdRbPVtl561UfU8XaNbgON0z1uOLj/wii1rHuBtyC26b9WJZHN8pgP88q9vRvEaLvcBR7lTGg/eo22O4IfGKfYOKcysFTYJsekv1UPIvugu1etJu/pwmiZwn9e57Ftec8ej7xLHoFttdC/j6D7YsLvklce02DT7X/qGIziX08qc/lVqr9RxU3wdZhfLz3WAqjhwxb783nw+jfItlu1FEQf5MhOCzESMTZtbz32ALDNuOL4n0w2DvB54tgKmW7UUd5sBTgohBLDvl4/urooRqsj5oC2zTj4/M6+Stn0CtmuuMqWGpwXYgNzfy1wNBmfE2wLTI+Pq+Tvw9g+6jg082fH5Lx2eWvH32YUz4n9fXyN0lRqudeB8sG3BJiewD11X1uv+uoq5Oe5w8ncbwj
+  </data>
+ </layer>
+ <layer name="top" width="40" height="47">
+  <data encoding="base64" compression="zlib">
+   eJztlkdOw0AARWcD2CYSsEmypl+AzpaOBKHkAPQL0NnQy4bOAegXoLOh7OkcgH4BOgs+YkayZFtusWPQfOnpe6TMzItbQggPDw8PD8//TEggpAbUUthxHag3MA4LzvpNY/0ZMEthx3Ng3sB4wWG/M6x/Di4o7PgSXBkYXzvslyTamx+2OV8vIRf9siRCskGOSudK6nPsnj+/ifntcOgAnSrdpeHn5vnbgMMm2FLpbQ2/SdzfU4J+J2N+iqTsVI111fKMz76AV5V+01jnBHufCvrdgPmNkrKbDPjF+wnx+Y1/D3kScH0SRf1ehMeSpOxlA34VcKu06FeFvatF/b6Bx62k7DsT15eHhydy6Q8QMgAGwVBAOY52DuBwCI7AcUA5diJpPkLSKRmy/iGTYiaRPo/N2L+F0iprRptJv0hEDBIiBX+PV7D/KmVN1ox1G35W79cyuJVTv3vs/0B5lDXjyYaf1ft1HG4TQev7/oXk4Xc+HxTImlHogf8A3XDoAb0q3afh5+b7cgcOu2BPpfc1/Nx4X7K8w+EDfMqa8eWB6xutxOC5jgVxQPDgM14Ep2JQAko96DcMpxEwCsY86MfDw2Mt33htpc8=
+  </data>
+ </layer>
+ <layer name="other top" width="40" height="47">
+  <data encoding="base64" compression="zlib">
+   eJztzjsOgkAYxPHRio6GoAVEGx/X0Etop42P62ijF0C9jt7BxzGcBMtFQM3uxsyvgmQ23x8QERH5X8cEOCX13mTcH2q++dSddx41b125v1nqG6TAMC3fdWKgG+ffPe77Fd78wop31hVuzdg2f/UtuF9a6ntnEwHbyHVFztRy5v8lKt/ZYGr5ZiciIiL+awVAO3BdUWzCtqnHfTu27T3uE7saIdAMXVcUG7Ft7HGfiIiIyRN84RfI
+  </data>
+ </layer>
+ <layer name="other other top" width="40" height="47">
+  <data encoding="base64" compression="zlib">
+   eJztzjEOQEAYROG5xCa7oaPhAtyFjoYLcHy/hKyC6Jbifd1kmicBAAC8a7zU+q8rni3Wtv60r7Ku+mjLnJS7+F13EaQypO+brG0++jpr6V3sOvdusLbxg7471y4AAAAAAAAgpQ19agh9
+  </data>
+ </layer>
+ <objectgroup name="Objects">
+  <object id="1" name="House" x="50" y="584" width="125" height="88"/>
+  <object id="2" name="left house" x="-6" y="458" width="55" height="215"/>
+  <object id="8" name="right house" x="173.788" y="612.529" width="62.8789" height="60.1933"/>
+  <object id="12" name="sign" x="351.333" y="639.333" width="29.3333" height="31.3333"/>
+  <object id="13" name="well" x="532.667" y="657.333" width="54.6667" height="44.6667"/>
+  <object id="14" name="lamp" x="416" y="529.333" width="31.3333" height="46"/>
+  <object id="15" name="sword shop" x="465.333" y="487.333" width="142" height="86.6667"/>
+  <object id="18" name="log" x="140.667" y="448.667" width="66" height="29.3333"/>
+  <object id="19" name="pub" x="17.3333" y="215.333" width="270" height="198.667"/>
+  <object id="20" name="pub logs" x="288.667" y="384.667" width="31.3333" height="30.6667"/>
+  <object id="21" name="dealer" x="448" y="279.333" width="158" height="88.6667"/>
+  <object id="24" name="dealer left" x="416" y="328.667" width="32.6667" height="40"/>
+  <object id="25" name="forest left" x="0.666667" y="0.667" width="282.667" height="157.333"/>
+  <object id="27" name="forest right" x="358" y="1.333" width="282.667" height="156.667"/>
+  <object id="28" name="tree stumps" x="428.667" y="160" width="90" height="32"/>
+  <object id="29" name="fence" x="520" y="160" width="119.333" height="62.6667"/>
+  <object id="30" name="tree 1" x="268" y="584.667" width="42" height="36.6667"/>
+  <object id="31" name="tree 2" x="268.667" y="521.333" width="40.6667" height="34"/>
+  <object id="35" name="tree 5" x="49.3333" y="460" width="100" height="92.6667"/>
+  <object id="36" name="tree 4" x="150.667" y="521.333" width="30.6667" height="29.3333"/>
+  <object id="37" name="3" x="204.667" y="522.667" width="40.6667" height="34"/>
+ </objectgroup>
+ <objectgroup name="Doors">
+  <object id="38" name="house door" x="99.1667" y="637.333" width="25.3333" height="35.3333"/>
+  <object id="39" name="sword door" x="531.167" y="540.333" width="25.3333" height="35.3333"/>
+  <object id="40" name="pub door" x="227.167" y="380.333" width="25.3333" height="35.3333"/>
+  <object id="41" name="dealer door door" x="499.167" y="333.833" width="25.3333" height="35.3333"/>
+  <object id="42" name="forest door" x="284" y="-2.05962" width="73.3333" height="4.95935"/>
+ </objectgroup>
+</map>
