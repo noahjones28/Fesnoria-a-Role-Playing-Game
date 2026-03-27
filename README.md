@@ -1,3 +1,3 @@
 # Fesnoria-A-Role-Playing-Game
 
-![Screenshot](Resources/Screenshot.png)
+![Screenshot](resources/Screenshot.png)
